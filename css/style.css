@@ -60,4 +60,14 @@ body {
 
 .grid-section{
   grid-column: 3 / 5;
+  width: 100%;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 90px 300px 1fr;
+  gap: 20px;
+  margin-bottom: 4rem;
+}
+
+.titulo{
+  font-display: 'Playfair Display SC', georgia;
 }
