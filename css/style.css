@@ -58,4 +58,6 @@ body {
   letter-spacing: .1rem;
 }
 
-
+.grid-section{
+  grid-column: 3 / 5;
+}
