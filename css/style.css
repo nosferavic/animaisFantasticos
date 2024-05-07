@@ -211,7 +211,7 @@ background: #faf6ed;
   grid-column: 1;
 }
 .faq-lista, .dados, .mapa{
-  grid: 1/-1;
+  grid-column: 1/-1;
 }
 
 .grid-section h1{
