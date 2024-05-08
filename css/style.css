@@ -64,7 +64,7 @@ body {
 }
 
 .grid-section {
-  grid-column: 3 / 5;
+  grid-column: 2 / 4;
   width: 100%;
   padding: 10px;
   display: grid;
@@ -78,7 +78,7 @@ body {
   font-size: 6rem;
   line-height: 1;
   font-weight: 400;
-  margin: 1rem;
+  margin-bottom: 1rem;
   grid-column: 1/4;
 }
 
