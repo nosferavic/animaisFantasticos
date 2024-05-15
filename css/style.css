@@ -144,6 +144,7 @@ html.textoMaior {
 
 .faq-lista dt {
   font-family: "IBM Plex Mono", monospace;
+  cursor: pointer;
   font-weight: bold;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
